@@ -376,7 +376,7 @@ print("Saved", RESULTS_DIR / "final_outline_overlay.png")"""))
 
 cells.append(nbf.v4.new_markdown_cell(r"""## Result assessment
 
-The eight cyan outlines follow visible long-side pairs on separated vehicles near the upper left, upper center, and right side. Long parking-space stripes are absent from the final selection because their implied interiors have little texture or contrast relative to surrounding pavement; border rejection also removes the painted-space fragment at the far right that appears in some comparison panels.
+The eight yellow outlines follow visible long-side pairs on separated vehicles near the upper left, upper center, and right side. Long parking-space stripes are absent from the final selection because their implied interiors have little texture or contrast relative to surrounding pavement; border rejection also removes the painted-space fragment at the far right that appears in some comparison panels.
 
 Known limitations visible in the final overlay:
 
